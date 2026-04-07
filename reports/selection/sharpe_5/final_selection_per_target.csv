@@ -1,0 +1,16 @@
+target,selected_model,selected_threshold,selected_strategy,reference_cost_bps,objective_metric,metric_value,baseline_model,baseline_metric_value,delta_vs_baseline,prefers_per_target_over_global
+y_BTC-USD,rf,0.003,long_flat,5.0,sharpe,0.7295420335358639,baseline_last,0.3038510146768894,0.4256910188589745,True
+y_GLD,rf,0.0,long_flat,5.0,sharpe,1.098559797618612,baseline_last,0.9636030329192804,0.1349567646993317,True
+y_TLT,rf,0.0,long_short,5.0,sharpe,0.955490452071891,baseline_last,-0.7341974103977352,1.689687862469626,True
+y_UUP,rf,0.003,long_short,5.0,sharpe,1.151417059830491,baseline_last,-0.1571496057784036,1.3085666656088946,True
+y_XLB,knn,0.005,long_flat,5.0,sharpe,0.9380624687201818,baseline_last,-1.200931855063774,2.138994323783956,False
+y_XLC,rf,0.0,long_flat,5.0,sharpe,1.0029522464040506,baseline_last,0.3962280936081186,0.606724152795932,True
+y_XLE,knn,0.005,long_short,5.0,sharpe,1.237458476223515,baseline_last,0.6827876638455557,0.5546708123779593,True
+y_XLF,knn,0.001,long_flat,5.0,sharpe,0.7407845324872674,baseline_last,0.4101077754948723,0.33067675699239507,True
+y_XLI,knn,0.0005,long_flat,5.0,sharpe,0.8091982260960091,baseline_last,0.0515876763692164,0.7576105497267928,True
+y_XLK,knn,0.005,long_flat,5.0,sharpe,0.2633214580632829,baseline_last,-0.5827761369397526,0.8460975950030355,False
+y_XLP,knn,0.005,long_short,5.0,sharpe,0.7841332224293557,baseline_last,-1.072108914682414,1.8562421371117699,True
+y_XLRE,rf,0.002,long_flat,5.0,sharpe,1.2602896825951533,baseline_last,-1.514977189344364,2.7752668719395173,True
+y_XLU,rf,0.0,long_flat,5.0,sharpe,0.8148791885582365,baseline_last,0.4259836946853534,0.3888954938728831,True
+y_XLV,knn,0.005,long_flat,5.0,sharpe,1.493855315014888,baseline_last,-0.0787133733727473,1.5725686883876353,False
+y_XLY,mlp,0.0,long_flat,5.0,sharpe,0.4914925952141081,baseline_last,-0.8245183773119087,1.3160109725260167,True

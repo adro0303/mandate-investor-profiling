@@ -1,0 +1,16 @@
+target,best_model_directional_accuracy
+y_BTC-USD,knn
+y_GLD,rf
+y_TLT,rf
+y_UUP,rf
+y_XLB,knn
+y_XLC,rf
+y_XLE,ridge
+y_XLF,knn
+y_XLI,knn
+y_XLK,ridge
+y_XLP,mlp
+y_XLRE,rf
+y_XLU,knn
+y_XLV,knn
+y_XLY,rf

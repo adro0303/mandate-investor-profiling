@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "news-impact"
+version = "0.1.0"
+description = "Starter pipeline: GDELT news -> yfinance returns -> NN baseline"
+requires-python = ">=3.10"

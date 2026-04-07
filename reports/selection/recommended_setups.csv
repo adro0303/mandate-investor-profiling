@@ -1,0 +1,4 @@
+cost_bps,recommended_scope,global_setup,global_sharpe,per_target_avg_best_sharpe,rationale
+1.0,per-target,mlp | thr=0.0 | long_flat,0.3693500585595554,1.1804036861345595,Per-target beats average global Sharpe.
+3.0,N/A,N/A,,,Insufficient data for this cost level.
+5.0,N/A,N/A,,,Insufficient data for this cost level.

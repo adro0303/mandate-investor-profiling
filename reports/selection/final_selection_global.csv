@@ -1,0 +1,2 @@
+target,selected_model,selected_threshold,selected_strategy,reference_cost_bps,objective_metric,metric_value,baseline_model,baseline_metric_value,delta_vs_baseline
+ALL,mlp,0.0,long_flat,1.0,sharpe,0.3693500585595554,baseline_last,-0.0007632747729399,0.3701133333324953

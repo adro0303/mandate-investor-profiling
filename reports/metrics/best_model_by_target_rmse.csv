@@ -1,0 +1,16 @@
+target,best_model_rmse
+y_BTC-USD,baseline_zero
+y_GLD,baseline_zero
+y_TLT,baseline_zero
+y_UUP,baseline_zero
+y_XLB,baseline_zero
+y_XLC,baseline_zero
+y_XLE,baseline_zero
+y_XLF,baseline_zero
+y_XLI,baseline_zero
+y_XLK,baseline_zero
+y_XLP,baseline_zero
+y_XLRE,baseline_zero
+y_XLU,baseline_zero
+y_XLV,baseline_zero
+y_XLY,baseline_zero
